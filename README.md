@@ -95,7 +95,7 @@
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="250" alt="Yin yang cats" />
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="250" alt="Cat and mouse" />
+  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Frtrwejed382h1.gif">
 </p>
 
 <h3 align="center">🎲 A different cat every time this page is cached</h3>
