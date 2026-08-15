@@ -3,7 +3,7 @@
 
 Readme · MD
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Hey there, welcome to my corner of GitHub!
-<h2> I'm [YOUR NAME]! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> I'm NALLAM.SATYA SIVANI! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" align="right" />
 - 🎓 Computer Science undergrad, currently deep in the web-dev rabbit hole
