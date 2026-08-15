@@ -1,6 +1,13 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome!
-<h2> I'm NALLAM.SATYA SIVANI ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
- <img src="https://user-images.githubusercontent.com/58912231/163521435-2aec33dd-0e14-4d7d-9c2c-7aeb154dcb05.gif" align="right">
+<h2> I'm [YOUR NAME]! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<p align="center">
+  <a href="https://github.com/nallamsatyasivani">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=F75C7E&center=true&vCenter=true&width=520&lines=Computer+Science+undergrad+%F0%9F%8E%93;Front-end+developer+in+training+%F0%9F%92%BB;Powered+by+chai%2C+CSS+and+cats+%F0%9F%90%B1" alt="Typing SVG" />
+  </a>
+</p>
+
+ <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="380" align="right">
 
 - 🎓 Computer Science undergrad, currently deep in the web-dev rabbit hole
 - 🌱 Learning by building — every repo here is something I broke, fixed, and shipped
@@ -9,12 +16,17 @@
 - 🛠️ Currently levelling up on **TypeScript**, **Next.js**, and backend fundamentals
 - 🤝 Open to internships, open-source contributions, and hackathon teams
 - 💬 Ask me about anything front-end — or the CSS bug that ate my weekend
+- 🐱 My code review process is just a cat walking across the keyboard, honestly
 - 🐸 Fun fact: I debug best at 2 AM with music on and far too many browser tabs open
+
+<br clear="right"/>
 
 ![](https://komarev.com/ghpvc/?username=nallamsatyasivani)
  <a href="https://github.com/nallamsatyasivani?tab=followers"><img src="https://img.shields.io/github/followers/nallamsatyasivani?label=Followers&style=social" alt="GitHub Badge"></a>
 
- <h2> Tools and Technologies </h2>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" height="3">
+
+ <h2> Tools and Technologies <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="28" /></h2>
  <h3> Datastructures and Algorithms </h3>
 
  ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
@@ -60,6 +72,8 @@
  ![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)
  ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
 
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" height="3">
+
  <h2>My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nallamsatyasivani&show_icons=true&theme=radical" alt="GitHub stats" /></p>
@@ -68,7 +82,37 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallamsatyasivani&layout=compact&theme=radical&langs_count=8" alt="Top languages" /></p>
 
-<h2>Reach out to me</h2>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" height="3">
+
+<h2 align="center">🐾 Certified Cat Person 🐾</h2>
+
+<p align="center"><i>Scroll past the code, stay for the cats.</i></p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="250" alt="Cool cats" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="250" alt="Laughing cat" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="250" alt="Yin yang cats" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="250" alt="Cat and mouse" />
+</p>
+
+<h3 align="center">🎲 A different cat every time this page is cached</h3>
+
+<p align="center">
+  <a href="https://cataas.com/">
+    <img src="https://cataas.com/cat/gif" width="300" alt="Random cat GIF, served fresh by cataas.com" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://cataas.com/cat/says/hello%20world?fontSize=60&fontColor=white" width="300" alt="Cat says hello world" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" height="3">
+
+<h2>Reach out to me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"></h2>
 
 <p align="center">
 <a href="https://github.com/nallamsatyasivani" target="_blank">
@@ -93,5 +137,7 @@
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
+<p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> <i>Thanks for stopping by — go star something.</i> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></p>
 
 ---
