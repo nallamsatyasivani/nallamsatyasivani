@@ -6,7 +6,7 @@
 
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="45">
 
-# Hi, I'm Satya Sivani 👋
+# Hi, I'm Nallam.Satya Sivani 👋
 
 ### 💻 Developer • 🎨 Front-End Enthusiast • 🧠 Problem Solver
 
