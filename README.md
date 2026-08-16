@@ -206,9 +206,7 @@ An AI-powered project focused on detecting whether digital media is AI-generated
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nallamsatyasivani&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FF69B4&area=true&hide_border=true&custom_title=My%20Coding%20Activity" width="100%" alt="Pink GitHub Contribution Activity">
 
-<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nallamsatyasivani&background=0D1117&border=F75C7E&stroke=F75C7E&ring=FF69B4&fire=F75C7E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F75C7E&sideLabels=FF69B4&dates=FFFFFF&hide_border=true" width="80%" alt="GitHub Contribution Streak">
 
