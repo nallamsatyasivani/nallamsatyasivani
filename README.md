@@ -202,7 +202,7 @@ An AI-powered project focused on detecting whether digital media is AI-generated
 <!--                  CONTRIBUTION ACTIVITY                    -->
 <!-- ========================================================= -->
 
-# 💗 Contribution Activity
+# 💗 Contribution Activity <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 <div align="center">
 
@@ -263,7 +263,9 @@ Every project gives me a chance to:
 ---
 
 <!-- ========================================================= -->
+
 <!--                         CAT ZONE                           -->
+
 <!-- ========================================================= -->
 
 # 🐱 Certified Cat Person
@@ -274,23 +276,16 @@ Every project gives me a chance to:
 
 <br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="210" alt="Cool Cat">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="210" alt="Laughing Cat">
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="210" alt="Yin Yang Cats">
+<img src="https://media1.tenor.com/m/FjB8OD0DZjgAAAAd/cat-dance-cat.gif" width="350" alt="Dancing Cat GIF">
 
 <br><br>
 
-<img src="https://cataas.com/cat/gif" width="280" alt="Random Cat GIF">
+### 💻 Code • ☕ Chai • 🐱 Cats • 🚀 Repeat
 
-<br><br>
-
-<i>One bug fixed. One cat approved. 🐈</i>
+<i>One bug fixed. One cat approved. 🐾</i>
 
 </div>
 
----
 
 <!-- ========================================================= -->
 <!--                     CONNECT WITH ME                       -->
