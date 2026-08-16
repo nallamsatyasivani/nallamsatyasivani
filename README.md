@@ -138,25 +138,30 @@
 ---
 
 <!-- ========================================================= -->
-<!--                      GITHUB STATS                         -->
+<!--                      GITHUB ANALYTICS                     -->
 <!-- ========================================================= -->
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nallamsatyasivani&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats">
+<a href="https://github.com/nallamsatyasivani">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nallamsatyasivani&theme=radical&hide_border=true" width="48%" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api?username=nallamsatyasivani&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=1800" height="180" alt="GitHub Stats"/>
+
+</a>
+
+<a href="https://github.com/nallamsatyasivani">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nallamsatyasivani&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages"/>
+
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nallamsatyasivani&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%" alt="Top Languages">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nallamsatyasivani&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
 
 </div>
-
----
-
 <!-- ========================================================= -->
 <!--                    DEVELOPER MINDSET                      -->
 <!-- ========================================================= -->
