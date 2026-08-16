@@ -11,16 +11,16 @@
 ### 💻 Developer • 🎨 Front-End Enthusiast • 🧠 Problem Solver
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%8E%93;Front-End+Developer+in+Training+%F0%9F%92%BB;Building%2C+Breaking%2C+Learning+%26+Shipping+%F0%9F%9A%80;Powered+by+Chai%2C+Code+%26+Cats+%F0%9F%90%B1" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%8E%93;Front-End+Developer+in+Training+%F0%9F%92%BB;Building+%7C+Learning+%7C+Improving+%F0%9F%9A%80;AI+%7C+Cybersecurity+%7C+Web+Development;Powered+by+Chai%2C+Code+%26+Cats+%F0%9F%90%B1" alt="Typing SVG">
 </p>
 
 <p>
   <a href="https://github.com/nallamsatyasivani">
-    <img src="https://komarev.com/ghpvc/?username=nallamsatyasivani&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=nallamsatyasivani&label=PROFILE%20VIEWS&color=F75C7E&style=for-the-badge" alt="Profile Views">
   </a>
 
   <a href="https://github.com/nallamsatyasivani?tab=followers">
-    <img src="https://img.shields.io/github/followers/nallamsatyasivani?label=Followers&style=for-the-badge&color=F75C7E" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/nallamsatyasivani?label=FOLLOWERS&style=for-the-badge&color=F75C7E" alt="GitHub Followers">
   </a>
 </p>
 
@@ -36,16 +36,17 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="360" align="right">
 
-- 🎓 Computer Science student exploring the world of software development
-- 🌱 Learning by building — every project is an opportunity to learn something new
-- 💻 Comfortable with **HTML, CSS, JavaScript, React and Node.js**
-- 🎨 Passionate about **clean UI, responsive design and user-friendly interfaces**
-- 🛠️ Currently improving my skills in **TypeScript, Next.js and backend development**
-- 🤝 Interested in **internships, open-source projects and hackathons**
+- 🎓 Computer Science student exploring software development
+- 🌱 Learning by building practical projects
+- 💻 Working with **HTML, CSS, JavaScript, React and Node.js**
+- 🤖 Exploring **Artificial Intelligence and Machine Learning**
+- 🛡️ Interested in **Cybersecurity and threat detection**
+- 🎨 Passionate about clean UI and responsive interfaces
+- 🐍 Using Python for AI, automation and problem solving
+- 🛠️ Improving my skills in **TypeScript, Next.js and backend development**
+- 🤝 Interested in internships, open-source projects and hackathons
 - 🚀 I enjoy turning ideas into working applications
-- 🧠 Interested in solving real-world problems through technology
-- 🐛 Debugging is part of my daily routine
-- ☕ Powered by chai, code and way too many browser tabs
+- ☕ Powered by chai, code and too many browser tabs
 - 🐱 My unofficial code reviewer is a cat
 
 <br clear="right"/>
@@ -60,15 +61,66 @@
 
 <div align="center">
 
-| 💡 Area | 🔧 Technologies |
+| 💡 Area | 🔧 Technologies / Topics |
 |:---:|:---|
-| 🎨 Frontend | TypeScript • React • Next.js |
+| 🎨 Frontend | HTML • CSS • JavaScript • React • TypeScript |
 | ⚙️ Backend | Node.js • Express |
+| 🤖 AI / ML | Python • Machine Learning • NLP |
+| 🛡️ Cybersecurity | Phishing Detection • Security Concepts |
 | 🗄️ Databases | MongoDB • MySQL • SQLite |
 | 🧪 Testing | Jest • Jasmine |
 | 🚢 DevOps | Git • GitHub • Docker |
-| ☁️ Deployment | Vercel • Netlify |
 | 🎯 Design | Figma • Responsive UI |
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                       -->
+<!-- ========================================================= -->
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🛡️ AI Email Phishing Detector</h3>
+
+<p>
+A machine-learning based project designed to analyze email content and identify potentially suspicious or phishing messages.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Machine_Learning-FF69B4?style=flat-square">
+<img src="https://img.shields.io/badge/NLP-F75C7E?style=flat-square">
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🔍 TruthLens Detection</h3>
+
+<p>
+An AI-powered project focused on detecting whether digital media is AI-generated or real.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/AI%2FML-F75C7E?style=flat-square">
+<img src="https://img.shields.io/badge/Computer_Vision-FF69B4?style=flat-square">
+</p>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -114,6 +166,15 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </p>
 
+## 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Machine_Learning-F75C7E?style=for-the-badge" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/NLP-FF69B4?style=for-the-badge" alt="NLP">
+  <img src="https://img.shields.io/badge/Computer_Vision-FF1493?style=for-the-badge" alt="Computer Vision">
+</p>
+
 ## 🧪 Testing & Development
 
 <p>
@@ -138,30 +199,23 @@
 ---
 
 <!-- ========================================================= -->
-<!--                      GITHUB ANALYTICS                     -->
+<!--                  CONTRIBUTION ACTIVITY                    -->
 <!-- ========================================================= -->
 
-# 📊 GitHub Analytics
+# 💗 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/nallamsatyasivani">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nallamsatyasivani&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=1800" height="180" alt="GitHub Stats"/>
-
-</a>
-
-<a href="https://github.com/nallamsatyasivani">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nallamsatyasivani&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages"/>
-
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nallamsatyasivani&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FF69B4&area=true&hide_border=true&custom_title=My%20Coding%20Activity" width="100%" alt="Pink GitHub Contribution Activity">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nallamsatyasivani&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nallamsatyasivani&background=0D1117&border=F75C7E&stroke=F75C7E&ring=FF69B4&fire=F75C7E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F75C7E&sideLabels=FF69B4&dates=FFFFFF&hide_border=true" width="80%" alt="GitHub Contribution Streak">
 
 </div>
+
+---
+
 <!-- ========================================================= -->
 <!--                    DEVELOPER MINDSET                      -->
 <!-- ========================================================= -->
@@ -188,6 +242,27 @@ Every project gives me a chance to:
 ---
 
 <!-- ========================================================= -->
+<!--                       CURRENT GOALS                        -->
+<!-- ========================================================= -->
+
+# 🎯 Current Goals
+
+<div align="center">
+
+| 🌟 Goal | 🚀 Focus |
+|:---:|:---|
+| 🤖 AI & ML | Build intelligent applications |
+| 🛡️ Cybersecurity | Explore security and threat detection |
+| 🌐 Web Development | Improve full-stack development |
+| 🧠 Problem Solving | Strengthen DSA and programming |
+| 🚀 Projects | Build practical real-world applications |
+| 🤝 Open Source | Learn and contribute to the community |
+
+</div>
+
+---
+
+<!-- ========================================================= -->
 <!--                         CAT ZONE                           -->
 <!-- ========================================================= -->
 
@@ -199,11 +274,11 @@ Every project gives me a chance to:
 
 <br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="220" alt="Cool Cat">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="210" alt="Cool Cat">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="220" alt="Laughing Cat">
+<img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="210" alt="Laughing Cat">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="220" alt="Yin Yang Cats">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6" width="210" alt="Yin Yang Cats">
 
 <br><br>
 
@@ -240,11 +315,11 @@ Every project gives me a chance to:
 <br><br>
 
 <a href="https://github.com/nallamsatyasivani">
-  <img src="https://img.shields.io/badge/Follow%20Me-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Follow on GitHub">
+  <img src="https://img.shields.io/badge/Follow_Me-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Follow on GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/nallamsatyasivani/">
-  <img src="https://img.shields.io/badge/Connect%20With%20Me-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  <img src="https://img.shields.io/badge/Connect_With_Me-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
 </a>
 
 </div>
